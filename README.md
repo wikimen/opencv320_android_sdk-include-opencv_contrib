@@ -7,4 +7,4 @@ opencv320_android_sdk include opencv_contrib project
 
 __There are some errors in above README.md. So I fixed and recorded it at website:__
 
-> * [Blog about compile errors above](http://www.wikimen.org/2017/07/android-facerecog-demo-opencv-320-without-opencvmanager-part2/)
+> * [Blog about compile errors above](https://aigeek.org/2017/07/04/android-facerecog-demo-opencv-320-without-opencvmanager-part2/)
